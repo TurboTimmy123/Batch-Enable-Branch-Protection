@@ -1,0 +1,22 @@
+{
+  "name": "batch-enable-branch-protection",
+  "version": "1.0.0",
+  "description": "NodeJS app to enable branch protection for all repos of a user/org",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TurboTimmy123/Batch-enable-branch-protection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TurboTimmy123/Batch-enable-branch-protection/issues"
+  },
+  "homepage": "https://github.com/TurboTimmy123/Batch-enable-branch-protection#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
